@@ -34,7 +34,7 @@ uvicorn main:app --reload
   "age": 20,
   "major": "Computer Science"
 }
-```
+``` 
 
 ## Bài tập tự làm
 1. Tạo model `Course`
